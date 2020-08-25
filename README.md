@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm WAPEETY. I'm a Student and I live in Italy.
+
+
+
+want to see other stuff? visit my website: [wapeety.github.io](https://wapeety.github.io)
+
 
 <!--
 **WAPEETY/WAPEETY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
