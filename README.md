@@ -1,4 +1,5 @@
-### Hi there 👋, I'm WAPEETY. I'm a Student and I live in Italy.
+### Hi there 👋, I'm WAPEETY. 
+just another crazy Dev.
 
 
 
